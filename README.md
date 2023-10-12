@@ -1,4 +1,4 @@
-# Preparation for Capstone Project
+# Personal Portfolio Website
 
 ## Project Overview
 ### Description
@@ -31,4 +31,19 @@ The personal portfolio website includes the following features:
 - **Contact Information**: This section makes it easy for visitors to get in touch with me. It include my email address, phone number, and social media links.
 
 ## Technologies Used
+- HTML 
+- CSS
+- JavaScript
 
+## Screenshots or Demo
+Follow the link for visual representations of the the project’s appearance and functionality:
+https://github.com/amah-nnachi-lofty/alx_capstone_project/blob/main/demo/_images/tasks_demo-screenshot.JPG
+
+## Roadmap and future enhancements
+Future enhancement to be included in the personal portfolio website include: blog, a resume, and a testimonials section
+
+## Contact information
+**Github**: https://github.com/amah-nnachi-lofty
+**LinkedIn**:  https://www.linkedin.com/in/amah-nnachi-lofty-24210920/
+**Academia**: https://fcekg.academia.edu/loftynac
+**Medium**: https://medium.com/@loftdot
