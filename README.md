@@ -10,12 +10,12 @@ The purpose of the portfolio website is to highlight my unique skills and experi
 ### Goals
 The goals of a personal portfolio website can vary depending on your individual needs and aspirations. However, some common goals include:
 
--To attract new clients or employers.
--To showcase your skills and experience.
--To build your personal brand.
--To establish yourself as an expert in your field.
--To network with other professionals.
--To generate leads or sales.
+- To attract new clients or employers.
+- To showcase your skills and experience.
+- To build your personal brand.
+- To establish yourself as an expert in your field.
+- To network with other professionals.
+- To generate leads or sales.
 
 ### Problems and solutions
 
