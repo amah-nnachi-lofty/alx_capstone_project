@@ -43,6 +43,7 @@ https://github.com/amah-nnachi-lofty/alx_capstone_project/blob/main/demo/_images
 Future enhancement to be included in the personal portfolio website include: blog, a resume, and a testimonials section
 
 ## Contact information
+- **Email**: loftdot@gmail.com
 - **Github**: https://github.com/amah-nnachi-lofty
 - **LinkedIn**:  https://www.linkedin.com/in/amah-nnachi-lofty-24210920/
 - **Academia**: https://fcekg.academia.edu/loftynac
