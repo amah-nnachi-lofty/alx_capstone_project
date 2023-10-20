@@ -37,8 +37,9 @@ The personal portfolio website includes the following features:
 
 ## Screenshots or Demo
 Follow the link for visual representations of the the project’s appearance and functionality:
-https://github.com/amah-nnachi-lofty/alx_capstone_project/blob/main/demo/_images/tasks_demo-screenshot.JPG
-https://github.com/amah-nnachi-lofty/alx_capstone_project/blob/main/demo/_images/Prototype-amah.JPG
+- Link to video demo: https://youtu.be/S3a3C1psHk4
+- https://github.com/amah-nnachi-lofty/alx_capstone_project/blob/main/demo/_images/tasks_demo-screenshot.JPG
+- https://github.com/amah-nnachi-lofty/alx_capstone_project/blob/main/demo/_images/Prototype-amah.JPG
 
 ## Roadmap and future enhancements
 Future enhancement to be included in the personal portfolio website include: blog, a resume, and a testimonials section
